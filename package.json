@@ -1,0 +1,13 @@
+{
+  "name": "pizzafinder",
+  "version": "1.0.0",
+  "main": "api/places.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node api/places.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^4.18.2"
+  }
+}
